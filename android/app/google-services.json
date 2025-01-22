@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "498338300349",
+    "firebase_url": "https://onlinefirebase-c0ab1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "onlinefirebase-c0ab1",
+    "storage_bucket": "onlinefirebase-c0ab1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498338300349:android:b390a766e420c7532ed2d4",
+        "android_client_info": {
+          "package_name": "com.example.onlineddb_manita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95VT-M6ZCTyGZuKDIjni2whZZ-eETFqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    avoid_print: false
+    prefer_final_fields: false
+    # เพิ่มกฎอื่น ๆ ที่คุณตอ้งการปิด
+analyzer:
+  errors:
+    # ปิ ดการแสดงผลค าแนะน าที่ไม่ต้องการ
+    unused_import: ignore
+    prefer_const_constructors: ignore
+    # เพิ่มคา แนะนา อื่น ๆ ที่ต้องการปิ 
